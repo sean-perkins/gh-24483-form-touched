@@ -1,0 +1,7 @@
+{
+  "name": "gh-24483-mark-touched",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
